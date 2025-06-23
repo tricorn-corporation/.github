@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://avatars.githubusercontent.com/u/1286105?s=200&v=4" alt="トライコーン株式会社のロゴ" width="150">
   <h1>トライコーン株式会社へようこそ！</h1>
 </div>
@@ -76,3 +76,4 @@
 ---
 
 ご興味を持っていただけましたら、ぜひ各プロダクトのサイトもご覧ください！
+](https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N300000016cKNEAY)
